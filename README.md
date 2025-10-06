@@ -37,24 +37,24 @@ Tabela: `usuarios`
 
 ##  Como usar
 
-### 1. Clone ou baixe este repositório
+1. Clone ou baixe este repositório
+2. Execute o script no terminal: python crud.py
 
 # 🧠 Funções disponíveis
 
-- criar(nome)
+- criar (nome)
 
 Insere um novo usuário no banco de dados.
 
-- ler()
+- ler ()
 
 Lista todos os usuários cadastrados.
 
-
-- atualizar(id, nome)
+- atualizar (id, nome)
 
 Atualiza o nome de um usuário com o ID especificado.
 
-- deletar(id)
+- deletar (id)
 
 Remove um usuário com o ID especificado.
 

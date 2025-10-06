@@ -45,22 +45,16 @@ Tabela: `usuarios`
 
 Insere um novo usuário no banco de dados.
 
-criar("Thaciane")
-
 - ler()
 
 Lista todos os usuários cadastrados.
 
-ler()
 
 - atualizar(id, nome)
 
 Atualiza o nome de um usuário com o ID especificado.
 
-atualizar(1, "Thaciane Paula")
-
 - deletar(id)
 
 Remove um usuário com o ID especificado.
 
-deletar(1)
